@@ -4,8 +4,8 @@ user_id,admin,Y
 name,Binance,Y
 type,cex,Y
 enabled,1,Y
-api_key,AXu4SH7lEJoZmDbpqm4HycQGren4SNDF5hnG70yTPd74XHv7UHXUNpZO2OoNVfvR,Y
-secret_key,VYqVHXDP3I5kRy03sIVyxmEMSm9k9332q449juASpxD6jucTxOPcde9iFnLucgk4,Y
+api_key,111,Y
+secret_key,111,Y
 testnet,0,Y
 hyperliquid_wallet_addr,,Y
 aster_user,,Y

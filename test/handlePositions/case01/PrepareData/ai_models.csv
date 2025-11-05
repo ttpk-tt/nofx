@@ -4,7 +4,7 @@ user_id,admin,Y
 name,DeepSeek,Y
 provider,DeepSeek,Y
 enabled,1,Y
-api_key,sk-007268c495114d6287a748c9d55ae013,Y
+api_key,sk-111,Y
 custom_api_url,,Y
 custom_model_name,,Y
 
